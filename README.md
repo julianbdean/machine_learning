@@ -1,1 +1,1 @@
-Prototypes and exploration of simple neural networks
+Prototypes and exploration of machine learning concepts
